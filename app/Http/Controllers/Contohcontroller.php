@@ -15,4 +15,4 @@ class Contohcontroller extends Controller
         return view('contoh', compact('products','title')); // menampilkan view contoh
     }
 }
-  
+   
